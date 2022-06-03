@@ -1,4 +1,5 @@
 # Ticket System
 
-- Own design and implementation of a website that consists of 7 webpages through which users could browse and purchase tickets for movies, concerts, etc.
-- Used C#, CSS, JavaScript, ASP.NET, Visual Studio, and SQL Server Management Studio.
+Own design and implementation of a website consisting of seven web pages through which users can search and purchase tickets for movies, concerts, etc.
+The structure and style of the website are created with HTML and CSS, while the jQuery and Bootsrap libraries are used to make the pages interactive and responsive. 
+

@@ -14,4 +14,4 @@ The аuxiliary images and fonts used to generate the website are provided in sep
 <p><div align="center"><img width="500" src="https://user-images.githubusercontent.com/18449614/173592992-a82864e6-1901-41f8-bb26-00c7f7ae09d2.png"> </div><div align="center"><i>Figure 3: Example of an auxiliary page that allows users to purchase concert tickets.</i></div></p>
 
 
-<p><div align="center"><img width="900" src="https://user-images.githubusercontent.com/18449614/173594804-802d11b6-700e-47cf-bbf1-5ee3c5a4c22b.png" > </div><div align="center"><i>Figure 4: </i></div></p>
+<p><div align="center"><img width="900" src="https://user-images.githubusercontent.com/18449614/173594804-802d11b6-700e-47cf-bbf1-5ee3c5a4c22b.png" > </div><div align="center"><i>Figure 4: A validation form for purchasing tickets. </i></div></p>
